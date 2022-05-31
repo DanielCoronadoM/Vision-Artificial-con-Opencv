@@ -1,1 +1,1 @@
-# Vision-Artificial-con-Opencv
+# Vision Artificial con Python y OpenCV
